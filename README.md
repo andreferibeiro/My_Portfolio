@@ -9,13 +9,13 @@ Conhecimentos em Análise, Vizualização de Dados, incluem:
 
 
 
-**Project 1: Half-Marathon Training Analysis (source: Strava)**
-Resumo do Projeto 1
+### Project 1: Half-Marathon Training Analysis (source: Strava)
+**Resumo do Projeto 1**
 
 
-# Project 2: ENEM 2022 Analysis (source: Inep)
-Resumo do Projeto 2
+### Project 2: ENEM 2022 Analysis (source: Inep)
+**Resumo do Projeto 2**
 
 
 ### Project 3: São Paulo Covid-19 (source: Seade)
-Resumo do Projeto 3
+**Resumo do Projeto 3**
