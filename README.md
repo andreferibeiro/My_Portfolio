@@ -1,13 +1,11 @@
 # Welcome to @andreferibeiro Data Science Portfolio
-Cientista de Dados (em formação) realizando uma transição de carreira da área de Engenharia para Ciência de Dados, com enfâse em Análise Exploratória de Dados e Gerenciamento de Projetos. Atualmente atuo como Analista de Engenharia Estrutural, focado em projetos aeronáuticos, incluindo desenvolvimento, análise estrutural e testes de produtos.
+Data Scientist in a carrer transition from Engineering to Data Science. Nowadays working as Structural Engineering Analyst, focused on aeronautical projects, including development, structural analysis, product test and continous improvement.
 
-Conhecimentos em Análise, Vizualização de Dados, incluem:
-- Programação: Python, SQL
-- Bibliotecas: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks
-- Certificação Profissional em Ciências de Dados da IBM (Coursera/ edX)
+Knowledge in Data Analysis and Vizualization, includes:
+- Programming: Python, SQL
+- Libraries: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks
+- IBM Data Science Professional Certification (Coursera/ edX)
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
-
-
 
 ### Project 1: Half-Marathon Training Analysis (source: Strava)
 **Project Overview:** 
