@@ -7,13 +7,14 @@ Knowledge in Data Analysis and Vizualization, includes:
 - IBM Data Science Professional Certification (Coursera/ edX)
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
 
-### Project 1: Half-Marathon Training Analysis (source: Strava)
+### Project 1: Half-Marathon Trainning Analysis (source: Strava)
 **Project Overview:** 
+
 
 ### Project 2: ENEM 2022 Analysis (source: Inep)
 **Project Overview:** 
 
 
-### Project 3: São Paulo Covid-19 (source: Seade)
+### Project 3: São Paulo Covid-19 Municipality Analysis (source: Seade)
 **Project Overview:** 
 
