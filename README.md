@@ -1,4 +1,4 @@
-# Welcome to @andreferibeiro Data Science Portfolio
+# Welcome to @andreferibeiro Data Science Project Portfolio
 Data Scientist in a carrer transition from Engineering to Data Science. Nowadays working as Structural Engineering Analyst, focused on aeronautical projects, including development, structural analysis, product test and continous improvement.
 
 Knowledge in Data Analysis and Vizualization, includes:
