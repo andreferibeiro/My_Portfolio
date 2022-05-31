@@ -7,9 +7,8 @@ Knowledge in Data Analysis and Vizualization, includes:
 - IBM Data Science Professional Certification (Coursera/ edX)
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
 
-### [Project 1: Data Immerssion Week Alura](https://github.com/andreferibeiro/imersao_dados_alura)
+### [Project 1: Data Immersion - Alura](https://github.com/andreferibeiro/imersao_dados_alura)
 **Project Overview:** Predict through different tools, techniques and database the value of a property in the city of São Paulo.
-![](images/Aula_05a.png)
 ![](images/Aula_05b.png)
 
 
