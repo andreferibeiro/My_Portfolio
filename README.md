@@ -8,7 +8,8 @@ Knowledge in Data Analysis and Vizualization, includes:
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
 
 ### [Project 1: Data Immersion - Alura](https://github.com/andreferibeiro/imersao_dados_alura)
-**Project Overview:** Predict through different tools, techniques and databases the value of a property in the city of São Paulo. Note: the notebook language is pt/br.
+**Project Overview:** Predict through different tools, techniques and databases the value of a property in the city of São Paulo.
+Note: the notebook language is PT-BR.
 
 ![](images/Aula_05b.png)
 
