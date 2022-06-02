@@ -14,7 +14,7 @@ Note: the notebook language is PT-BR.
 ![](images/Aula_05b.png)
 
 
-### [Project 2: Half-Marathon Trainning Analysis](https://github.com/andreferibeiro/mark01_half-marathon)
+### [Project 2: Half-Marathon Trainning Analysis](https://github.com/andreferibeiro/half-marathon-EDA)
 **Project Overview:** 
 
 
