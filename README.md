@@ -17,7 +17,7 @@ Note: the notebook language is PT-BR.
 ### [Project 2: Half-Marathon Training Exploratory Data Analysis (EDA)](https://github.com/andreferibeiro/half-marathon-EDA)
 **Project Overview:** Exploratory Data Analysis (EDA) on my Half-Marathon Training Plan provide from Garmin Connect. 
 
-![](images/Training vs days.png)
+![](images/training_vs_days.png)
 
 ### Project 3: ENEM 2022 Analysis
 **Project Overview:** 
