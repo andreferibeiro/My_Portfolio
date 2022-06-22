@@ -7,8 +7,6 @@ Knowledge in Data Analysis and Vizualization, includes:
 - IBM Data Science Professional Certification (Coursera/ edX)
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
 
-### Project 3: *See you Soon*
-
 ### [Project 2: Half-Marathon Training Exploratory Data Analysis (EDA)](https://github.com/andreferibeiro/half-marathon-EDA)
 **Project Overview:** Exploratory Data Analysis (EDA) on my Half-Marathon Training Plan provide from Garmin Connect. **(Jun, 2022)** 
 
