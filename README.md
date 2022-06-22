@@ -8,9 +8,6 @@ Knowledge in Data Analysis and Vizualization, includes:
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
 
 ### Project 3: *See you Soon*
-**Project Overview:**
-**Date**
-
 
 ### [Project 2: Half-Marathon Training Exploratory Data Analysis (EDA)](https://github.com/andreferibeiro/half-marathon-EDA)
 **Project Overview:** Exploratory Data Analysis (EDA) on my Half-Marathon Training Plan provide from Garmin Connect. **Jun, 2022** 
@@ -19,6 +16,6 @@ Knowledge in Data Analysis and Vizualization, includes:
 
 ### [Project 1: Data Immersion - Alura](https://github.com/andreferibeiro/imersao_dados_alura)
 **Project Overview:** Predict through different tools, techniques and databases the value of a property in the city of São Paulo.
-Note: the notebook language is PT-BR.**May, 2022**
+Note: the notebook language is PT-BR. **May, 2022**
 
 ![](images/Aula_05b.png)
