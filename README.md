@@ -17,7 +17,7 @@ Knowledge in Data Analysis and Vizualization, includes:
 
 <h2><a href="https://github.com/andreferibeiro/imersao_dados_alura">Project 1: Data Immersion - Alura</a></h2>
 
-**Project Overview:** Predict through different tools, techniques and databases the value of a property in the city of São Paulo.</p>
+**Project Overview:** Predict through different tools, techniques and databases the value of a property in the city of São Paulo. 
 Note: the notebook language is PT-BR. (**May, 2022**)
 
 <p align="center">
