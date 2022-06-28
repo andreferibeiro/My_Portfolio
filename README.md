@@ -1,6 +1,6 @@
 <h1>Welcome to @andreferibeiro Data Science Portfolio</h1>
 
-Please let me introduce myself. My name is **André**, I'm **35** years old. With more than 18 years of experience, for the last 8 years I have been working as Engineer. Nowadays, I am focused on my plan to conduct a carrer transition carrer to Data Science. I believe that my experience with Engineering and Project Management will help me to become a distinguished **Data Scientist**.
+Please let me introduce myself. My name is **André**, I'm **35** years old. With more than 18 years of experience, for the last 8 years I have been working as Engineer. **Nowadays, I am focused on my plan to conduct a carrer transition carrer to Data Science**. I believe that my experience with Engineering and Project Management will help me to become a distinguished **Data Scientist**.
 
 My knowledge in **Data Analysis**, **Data Vizualization** and **Machine Learning**, includes:
 - Programming: Python, SQL
