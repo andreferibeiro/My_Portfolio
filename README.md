@@ -1,11 +1,14 @@
 <h1>Welcome to @andreferibeiro Data Science Portfolio</h1>
-Data Scientist in a carrer transition from Engineering to Data Science. Nowadays working as Structural Engineering Analyst, focused on aeronautical projects, including development, structural analysis, product test and continous improvement.
 
-Knowledge in Data Analysis and Vizualization, includes:
+Please let me introduce myself. My name is **André**, I'm **35** years old. With more than 18 years of experience, for the last 8 years I have been working as Engineer. Nowadays, I am focused on my plan to conduct a carrer transition carrer to Data Science. I believe that my experience with Engineering and Project Management will help me to become a distinguished **Data Scientist**.
+
+My knowledge in **Data Analysis**, **Data Vizualization** and **Machine Learning**, includes:
 - Programming: Python, SQL
-- Libraries: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks
-- IBM Data Science Professional Certification (Coursera/ edX)
-- Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy)
+- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Cufflinks, Scikit-learn
+- Algorithms: Regression, Classification, Clustering
+- Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy, 2022)
+- Data Immersion #4 (Alura, 2022) ⭐ Project Distinct Award
+- IBM Data Science Professional Certification (Coursera/ edX, 2021)
 
 <h2><a href="https://andreferibeiro.github.io/half-marathon-EDA/">Project 2: Half-Marathon Training Exploratory Data Analysis (EDA)</a></h2>
 
