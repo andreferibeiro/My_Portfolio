@@ -26,3 +26,4 @@ Note: the notebook language is PT-BR. (**May, 2022**)
 <p align="center">
    <a><img src="images/Aula_05b.png"></a>
 </p>
+</p>
