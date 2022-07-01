@@ -18,15 +18,14 @@ My knowledge in **Data Analysis**, **Data Vizualization** and **Machine Learning
    <a><img src="images/training_vs_days.png"></a>
 </p>
 
-<h2><a href="https://andreferibeiro.github.io/workshop_dados_ebac/">Project B: Data Immersion - Alura</a></h2>
+<h2><a href="https://andreferibeiro.github.io/workshop_dados_ebac/">Project B: Workshop Fundamentals of Mathematics for Data Analysis - EBAC</a></h2>
 
-**Project Overview:** Workshop Fundamentals of Mathematics for Data Analysis. 
+**Project Overview:** Study of the main theoretical concepts and how to interpret some results, especially statistics topics.
 Note: the notebook language is PT-BR. (**Jun, 2022**)
 
 <p align="center">
    <a><img src="images/imagem_Domicilios.png"></a>
 </p>
-
 
 <h2><a href="https://andreferibeiro.github.io/imersao_dados_alura/">Project A: Data Immersion - Alura</a></h2>
 
