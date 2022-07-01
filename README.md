@@ -10,7 +10,7 @@ My knowledge in **Data Analysis**, **Data Vizualization** and **Machine Learning
 - Data Immersion #4 (Alura, 2022) ⭐ Project Distinct Award
 - IBM Data Science Professional Certification (Coursera/ edX, 2021)
 
-<h2><a href="https://andreferibeiro.github.io/half-marathon-EDA/">Project 2: Half-Marathon Training Exploratory Data Analysis (EDA)</a></h2>
+<h2><a href="https://andreferibeiro.github.io/half-marathon-EDA/">Project 1: Half-Marathon Training Exploratory Data Analysis (EDA)</a></h2>
 
 **Project Overview:** Exploratory Data Analysis (EDA) on my Half-Marathon Training Plan provide from Garmin Connect. (**Jun, 2022**) 
 
@@ -18,12 +18,21 @@ My knowledge in **Data Analysis**, **Data Vizualization** and **Machine Learning
    <a><img src="images/training_vs_days.png"></a>
 </p>
 
-<h2><a href="https://andreferibeiro.github.io/imersao_dados_alura/">Project 1: Data Immersion - Alura</a></h2>
+<h2><a href="https://andreferibeiro.github.io/workshop_dados_ebac/">Project B: Data Immersion - Alura</a></h2>
+
+**Project Overview:** Workshop Fundamentals of Mathematics for Data Analysis. 
+Note: the notebook language is PT-BR. (**Jun, 2022**)
+
+<p align="center">
+   <a><img src="images/imagem_Domicilios.png"></a>
+</p>
+
+
+<h2><a href="https://andreferibeiro.github.io/imersao_dados_alura/">Project A: Data Immersion - Alura</a></h2>
 
 **Project Overview:** Predict through different tools, techniques and databases the value of a property in the city of São Paulo. 
 Note: the notebook language is PT-BR. (**May, 2022**)
 
 <p align="center">
    <a><img src="images/Aula_05b.png"></a>
-</p>
 </p>
