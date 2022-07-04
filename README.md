@@ -5,7 +5,7 @@ Please let me introduce myself. My name is **André**, I'm **black**, **35** yea
 My knowledge in **Data Analysis**, **Data Vizualization**, **Machine Learning** and **Project Management** includes:
 - Programming: Python, SQL
 - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Cufflinks, Scikit-learn
-- Algorithms: Regression, Classification, Clustering
+- Machine Learning Algorithms: Regression, Classification, Clustering
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy, 2022)
 - Data Immersion #4 (Alura, 2022) ⭐ Project Distinct Award
 - IBM Data Science Professional Certificate (Coursera/ edX, 2021)
