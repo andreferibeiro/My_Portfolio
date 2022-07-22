@@ -9,7 +9,7 @@ My knowledge in **Data Analysis**, **Data Vizualization**, **Machine Learning** 
 - Python for Data Science and Machine Learning Bootcamp - Pierian Training (Udemy, 2022)
 - Data Immersion #4 (Alura, 2022) ⭐ Project Distinct Award
 - IBM Data Science Professional Certificate (Coursera/ edX, 2021)
-- Google Project Management Professional Certificate (Coursera-CIEE) ⭐ Scholarship Award
+- Google Project Management Professional Certificate (Coursera-CIEE, 2022) ⭐ Scholarship Award
 
 <h2><a href="https://andreferibeiro.github.io/half-marathon-EDA/">Project 1: Half-Marathon Training Exploratory Data Analysis (EDA)</a></h2>
 
